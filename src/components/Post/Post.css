@@ -1,0 +1,36 @@
+.post-article {
+    border-radius: 3px;
+    border: 1px solid #e6e6e6;
+    background-color: #fff;
+    margin: 0 auto;
+    width: 500px;
+    margin-bottom: 2%;
+}
+
+main img {
+    width: 500px;
+}
+
+.Post-header {
+    display: flex;
+    padding: 16px;
+    align-items: center;
+}
+
+.Post-Profile-img {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+.Post-user-name {
+    margin-left: 12px;
+    font-family: 'PT Sans', sans-serif;
+    font-weight: bold;
+}
+
+.Post-footer {
+    padding: 16px;
+    font-family: 'PT Sans', sans-serif;
+    font-weight: bold;
+}

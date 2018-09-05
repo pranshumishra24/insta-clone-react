@@ -1,0 +1,30 @@
+.Nav {
+    box-sizing: border-box;
+    background-color: #fff;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 77px;
+    transition: height 0.2s ease-in-out;
+}
+
+.Nav-menus {
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    height: 100%;
+    padding: 25px 40px;
+}
+
+.Nav-logo {
+    text-decoration: none;
+    margin-left: 5px;
+    padding-top: 8px;
+}
+
+.Nav-menus img {
+    margin: 0;
+    padding: 0;
+    border-right: 1px solid grey;
+}
